@@ -1,6 +1,6 @@
 1:HL["/Astronomy-Site/_next/static/css/24131b5a684707ca.css","style",{"crossOrigin":""}]
 2:HL["/Astronomy-Site/_next/static/css/68737fa6a31598bc.css","style",{"crossOrigin":""}]
-0:["aoodqN06xu8v_iviLMYkW",[[["",{"children":["pages",{"children":["Blogs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/Astronomy-Site/_next/static/css/24131b5a684707ca.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/Astronomy-Site/_next/static/css/68737fa6a31598bc.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["q5k0NZ6ibGG_OdHec-Rhd",[[["",{"children":["pages",{"children":["Blogs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/Astronomy-Site/_next/static/css/24131b5a684707ca.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/Astronomy-Site/_next/static/css/68737fa6a31598bc.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/Astronomy-Site/_next/static/css/d0b4c507cc0ee56a.css","style",{"crossOrigin":""}]
 6:I[5586,["986","static/chunks/986-d199011374bab2c7.js","396","static/chunks/396-ded11e39f5dbe6a1.js","185","static/chunks/app/layout-208cf28bc16ca1ff.js"],""]
 7:I[6954,[],""]
